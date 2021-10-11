@@ -8,6 +8,9 @@ public class NewBehaviourScript : MonoBehaviour
     public float distance = 0.0f;
     public float time = 0.0f;
 
+    public float maxSpeedLimit = 70.0f;
+    public float minSpeedLimit = 40.0f;
+
     // Update is called once per frame
     void Update()
     {
@@ -20,11 +23,22 @@ public class NewBehaviourScript : MonoBehaviour
     void SpeedCheck()
     {
         speed = distance / time;
-        if (speed > 70 || speed < 40)
+        if (speed > maxSpeedLimit)
         {
-            print("Yor are breaking the law!");
+            print("Yor are exceeding thespeed limit!");
         }
-        print("You are traveling at" + speed + "MPH");
+        else if (speed < minSpeedLimit)
+        {
+            print("You are not gonig fast enought");
+        }
+        else if (speed == maxSpeedLimit || speed == minSpeedLimit)
+        {
+            print("You are about to breaking the law!");
+        }
+        else
+        {
+            print("You are within the speed limit!");
+        }
     }
 }
 

@@ -54,6 +54,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Sp.cs" />
+    <Compile Include="Assets\ExampleScript2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

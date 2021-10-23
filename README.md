@@ -11,5 +11,5 @@
 
 ## Lab6
 ### Problem1
--Webbuild https://akkharin1.github.io/akkharin-EN843200-unity/lab6/problem1/Web/
+-Webbuild https://akkharin1.github.io/akkharin-EN843200-unity/lab6/Problem1/Web/
 -Image https://github.com/akkharin1/akkharin-EN843200-unity/tree/main/lab6/Problem1/image

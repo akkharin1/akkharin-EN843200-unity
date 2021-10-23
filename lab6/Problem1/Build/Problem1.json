@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project 3",
+"productVersion": "0.1",
+"dataUrl": "Problem1.data.unityweb",
+"wasmCodeUrl": "Problem1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Problem1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.30f1"
+}

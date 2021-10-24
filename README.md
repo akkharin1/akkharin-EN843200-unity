@@ -13,3 +13,6 @@
 ### Problem1
 -Webbuild https://akkharin1.github.io/akkharin-EN843200-unity/lab6/Problem1/Web/
 -Image https://github.com/akkharin1/akkharin-EN843200-unity/tree/main/lab6/Problem1/image
+### Problem2
+-lab6p2p1 https://github.com/akkharin1/akkharin-EN843200-unity/tree/main/lab6/Problem2/lab6p2p1
+-lap6p2p2 https://github.com/akkharin1/akkharin-EN843200-unity/tree/main/lab6/Problem2/lab6p2p2
